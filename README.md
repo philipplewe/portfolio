@@ -30,9 +30,9 @@ When editing content, if you want your browser to automatically redirect to the 
 hugo server --navigateToChanged
 ``````
 
-## Deployment to Github pages
+## Deployment to GitHub pages
 
-On every push to `main` branch the site is build and deployed to Github pages. See [.github/workflows/hugo.yaml](.github/workflows/hugo.yaml) for deployment process details.
+On every push to `main` branch the site is build and deployed to GitHub pages. See [.github/workflows/hugo.yaml](.github/workflows/hugo.yaml) for deployment process details.
 
 The published page is available at [https://philipplewe.github.io/portfolio/](https://philipplewe.github.io/portfolio/).
 
