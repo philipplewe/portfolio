@@ -55,7 +55,7 @@ jobs:
           then
               npm ci
           else
-              return true
+              true
           fi
       - name: Build with Hugo
         env:
