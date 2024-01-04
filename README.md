@@ -2,6 +2,8 @@
 
 A portfolio and blog page build with static site generator [Hugo](https://gohugo.io/about/what-is-hugo/) using [Congo theme](https://themes.gohugo.io/themes/congo/).
 
+[![Super-Linter](https://github.com/philipplewe/portfolio/actions/workflows/linter/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
 ## Pre-requisites
 
 * Hugo CLI
